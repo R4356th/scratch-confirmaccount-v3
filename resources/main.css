@@ -8,6 +8,12 @@
 	margin-right: 10px;
 }
 
+.mw-scratch-confirmaccount-textarea {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	height: 90px;
+}
+
 .mw-scratch-confirmaccount-verifcode {
 	font-weight: bold;
 }
